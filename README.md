@@ -18,17 +18,17 @@ This project explores hotel booking patterns using six interrelated datasets. Th
 
 |--------------------------|-----------------------------------------|
 
-| `dim\_date.csv`           | Calendar dimension (dates, months, weeks) |
+| `dim_date.csv`           | Calendar dimension (dates, months, weeks) |
 
-| `dim\_hotels.csv`         | Hotel-level details                     |
+| `dim_hotels.csv`         | Hotel-level details                     |
 
-| `dim\_rooms.csv`          | Room-level details                      |
+| `dim_rooms.csv`          | Room-level details                      |
 
-| `fact\_aggregated\_bookings.csv` | Daily aggregate bookings              |
+| `fact_aggregated_bookings.csv` | Daily aggregate bookings              |
 
-| `fact\_bookings.csv`      | Raw transactional bookings              |
+| `fact_bookings.csv`      | Raw transactional bookings              |
 
-| `new\_data\_august.csv`    | New bookings data for August            |
+| `new_data_august.csv`    | New bookings data for August            |
 
 
 
