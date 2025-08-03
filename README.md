@@ -1,4 +1,4 @@
-\# 📊 Hotel Booking EDA Project
+# Hotel Booking EDA Project
 
 
 
@@ -10,7 +10,7 @@ This project explores hotel booking patterns using six interrelated datasets. Th
 
 
 
-\## 📁 Dataset Overview
+## Dataset Overview
 
 
 
@@ -36,51 +36,31 @@ This project explores hotel booking patterns using six interrelated datasets. Th
 
 
 
-\## 🧪 EDA Performed
+## EDA Performed
 
 
 
-\- Missing value treatment (e.g., capacity filled using mean)
+- Missing value treatment (e.g., capacity filled using mean)
 
-\- Data type standardization (e.g., date parsing)
+- Data type standardization (e.g., date parsing)
 
-\- Handling mismatches (e.g., bookings > capacity)
+- Handling mismatches (e.g., bookings > capacity)
 
-\- Exploratory visualizations:
+- Exploratory visualizations:
 
-&nbsp; - Revenue trends by month
+- Revenue trends by month
 
-&nbsp; - City-wise and platform-wise revenue
+- City-wise and platform-wise revenue
 
-&nbsp; - Booking status distribution
+- Booking status distribution
 
-&nbsp; - Ratings vs revenue
+- Ratings vs revenue
 
-&nbsp; - Room category popularity
+- Room category popularity
 
-&nbsp; - Weekend vs weekday comparison
+- Weekend vs weekday comparison
 
-&nbsp; - Heatmaps (City × Month revenue)
-
-
-
----
-
-
-
-\## 📓 Tools Used
-
-
-
-\- Python
-
-\- Pandas
-
-\- Matplotlib
-
-\- Seaborn
-
-\- Jupyter Notebook
+- Heatmaps (City × Month revenue)
 
 
 
@@ -88,15 +68,19 @@ This project explores hotel booking patterns using six interrelated datasets. Th
 
 
 
-\## 🚀 How to Use
+## Tools Used
 
 
 
-1\. Clone the repo
+- Python
 
-2\. Place all CSV files in the `data/` folder
+- Pandas
 
-3\. Open `hotel\_analysis.ipynb` and run the notebook
+- Matplotlib
+
+- Seaborn
+
+- Jupyter Notebook
 
 
 
@@ -104,15 +88,31 @@ This project explores hotel booking patterns using six interrelated datasets. Th
 
 
 
-\## 🔍 Future Improvements
+## How to Use
 
 
 
-\- Add predictive modeling (e.g., cancellation prediction)
+1. Clone the repo
 
-\- Merge August data and rerun time-series analyses
+2. Place all CSV files in the `datasets` folder
 
-\- Deploy key metrics using a dashboard (e.g., Streamlit or PowerBI)
+3. Open `hotel_analysis.ipynb` and run the notebook
+
+
+
+---
+
+
+
+## Future Improvements
+
+
+
+- Add predictive modeling (e.g., cancellation prediction)
+
+- Merge August data and rerun time-series analyses
+
+- Deploy key metrics using a dashboard (e.g., Streamlit or PowerBI)
 
 
 
