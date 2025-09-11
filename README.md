@@ -121,3 +121,9 @@ With these insights, the team can now:
 3. Open and run `hotel_analysis.ipynb` in Jupyter Notebook  
 
 ---
+
+## Contact
+
+**Kushal Samani**  
+- Email: kushalsamani04@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/kushalsamani
